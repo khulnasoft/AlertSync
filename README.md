@@ -6,7 +6,7 @@ Use this bot to monitor new CVEs containing defined keywords and send alerts to 
 
 ## See it in action
 
-Join the telegram group **[peass](https://t.me/peass)** to see the bot in action and be up to date with the latest privilege escalation vulnerabilities.
+Join the telegram group **[khulnasoft](https://t.me/khulnasoft)** to see the bot in action and be up to date with the latest privilege escalation vulnerabilities.
 
 ## Configure one for yourself
 

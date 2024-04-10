@@ -5,13 +5,7 @@ name: 🌥 Docker Push
 # separate terms of service, privacy policy, and support
 # documentation.
 
-on:
-  workflow_run:
-    workflows: ["🎉 Release Binary"]
-    types:
-      - completed
-  workflow_dispatch:
-  
+on:  
   schedule:
     - cron: '27 2 * * *'
   push:
